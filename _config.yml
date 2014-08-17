@@ -10,3 +10,5 @@ github_username:  sangyye
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude: [Gemfile]
